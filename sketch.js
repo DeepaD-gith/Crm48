@@ -22,7 +22,7 @@ var Chain1;
 var chainCreated = false;
 
 function preload() {
-    backgroundImg = loadImage("Images/carromboard.png");
+    backgroundImg = loadImage("Images/CarromBoard.png");
 }
 
 function setup() {
